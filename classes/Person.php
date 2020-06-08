@@ -14,5 +14,3 @@ class Person {
     $this->sesso = $_sesso;
   }
 }
-$dipendente = new Person ('Francesco' ,'Scarniglia','Uomo', 'WebDev');
-var_dump($dipendente);
