@@ -11,6 +11,3 @@ class Worker extends Person {
     $this->work = $_work;
   }
 }
-
-// $dipendente = new Worker ('Francesco' ,'Scarniglia','Uomo', 'WebDev');
-// var_dump($dipendente);
